@@ -17,6 +17,7 @@ html_template = '''
     </form>
     {% if name %}
         <h2>Hello {{ name }}. Congrats! You understand how to use Docker.</h2>
+        <h2>Hello {{ name }}. This is V2</h2>
     {% endif %}
 </body>
 </html>
