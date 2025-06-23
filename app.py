@@ -10,7 +10,7 @@ html_template = '''
     <title>Hello App</title>
 </head>
 <body>
-    <h1>Enter Your Name</h1>
+    <h1>Enter Your Name v2</h1>
     <form method="POST">
         <input type="text" name="name" placeholder="Your name" required>
         <input type="submit" value="Submit">
