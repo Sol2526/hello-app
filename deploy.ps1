@@ -1,4 +1,4 @@
-$imageN = "hello-app"
+$imageN = "sol2526/hello-app"
 $containerN = "hello-app"
 #script is to automate the re-deployment of a docker container with a new image
 Write-Host "Stopping container if running.."
